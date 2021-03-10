@@ -36,7 +36,7 @@
 ### Order to run python scrips
 - For a subset of data in the database
     1. Create_tables.py
-    2. Etl.ipynb
+    2. ETL.ipynb
 - For the whole dataset in the database
     1. Create_tables.py
-    2. Etl.py
+    2. ETL.py
