@@ -1,4 +1,4 @@
-## Process Documentation
+## Project Documentation
 
 1. Discuss the purpose of this database in the context of the startup, Sparkify, and their analytical goals.
     - The relational database *sparktifydb* is constructed where Sparkify data can be easily queried and is curated to what song users are listening to.
