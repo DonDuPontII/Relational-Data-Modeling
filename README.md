@@ -20,7 +20,7 @@
 ### Files contained in the repository
 1. Sql_queries.py
     - Drop, create, and insert into table statements (not executed) for the database layout
-    - Statement to get the song ID and artist ID from songs and artists tables to find matches to the log files based on the song title, artist name, and song duration time
+    - A SQL statement to get the song ID and artist ID from songs and artists tables to find matches to the log files based on the song title, artist name, and song duration time
 2. Create_tables.py
     - Creates database *sparktifydb*
     - Executes drop and create table statements
